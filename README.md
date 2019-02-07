@@ -1,2 +1,1 @@
-# BridgeUpSTEM-Astrophysics-
-Color Magnitude Graph 
+Color Magnitude Graph BridgeUpSTEM
